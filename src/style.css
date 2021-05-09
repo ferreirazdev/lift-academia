@@ -99,3 +99,25 @@
 .content .imgBox img{
   max-width: 600px;
 }
+
+.part2 {
+  background: url(./assets/Grupo\ 2.png) 100vh;
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  align-items: center;
+  display: flex;
+}
+
+.sobre {
+  background: #fff;
+  border-radius: 40px;
+  justify-content: center;
+  align-items: center;
+  padding: 30px 150px 40px 150px;
+}
+
+.sobre h2 {
+  text-align: center;
+  padding: 10px;
+}
