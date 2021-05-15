@@ -156,3 +156,49 @@
 .horarios img{
   max-width: 1000px ;
 }
+
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: #141414;
+  padding: 50px 50px 0 50px;
+}
+
+footer h2 {
+  color: #ffcf00;
+  text-align: center;
+}
+
+footer form {
+  display: flex;
+  flex-direction: column;
+  padding: 0 0 50px 0;
+}
+
+footer form label {
+  color: #fff;
+  text-align: left;
+  padding: 5px;
+}
+
+#msg {
+  padding: 50px;
+}
+
+#btn {
+  text-decoration: none;
+  background: #ffcf00;
+  color: #141414;
+  border-radius: 40px;
+  padding: 8px 15px;
+  font-weight: 700;
+  letter-spacing: 1;
+  text-align: center;
+  margin-top: 5px;
+}
+
+footer p{
+  margin-top: 30px;
+  color: #fff;
+}
